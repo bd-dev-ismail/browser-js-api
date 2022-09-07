@@ -13,4 +13,4 @@ const displayNum = ()=>{
     numTextString.innerText = getNum;
 
 }
-displayNum()
+displayNum();
